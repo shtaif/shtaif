@@ -39,9 +39,17 @@ On a personal note - I like to do weight-lift training and running, and I'm an a
 
 ## 🔥 Open Source Projects:
 
-- **[Iterified](https://github.com/shtaif/iterified):** A utility library that brings the power of asynchronous iteration to any callback-based multi-value sequenuce.
-- **[Qyu](https://github.com/shtaif/Qyu):** A lightweight and very flexible job queue library for the browser/Node.js.
-- **[Multerator](https://github.com/shtaif/multerator):** An async iterable based streaming parser for any _multipart/form-data_ payload (such as HTTP file uploads).
+- **[_Iterified_](https://github.com/shtaif/iterified)**
+<sub><a href="https://www.npmjs.com/package/iterified"><img alt="Iterified npm downloads" src="https://img.shields.io/npm/dm/iterified?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
+A utility library that brings the power of asynchronous iteration to any callback-based multi-value sequenuce.
+
+- **[_Qyu_](https://github.com/shtaif/Qyu)**
+<sub><a href="https://www.npmjs.com/package/qyu"><img alt="Qyu npm downloads" src="https://img.shields.io/npm/dm/qyu?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
+A lightweight and very flexible job queue library for the browser/Node.js.
+
+- **[_Multerator_](https://github.com/shtaif/multerator)**
+<sub><a href="https://www.npmjs.com/package/multerator"><img alt="Multerator npm downloads" src="https://img.shields.io/npm/dm/multerator?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
+An async iterable based streaming parser for any _multipart/form-data_ payload (such as HTTP file uploads).
 
 <br />
 
