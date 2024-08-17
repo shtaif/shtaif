@@ -17,7 +17,7 @@
 
 <br />
 
-I'm a passionate full-stack developer experienced by more then a decade of designing and delivering software.<br />I like to apply critical thinking and grasp the inner-workings behind every thing I touch.<br />
+I'm a passionate full-stack developer experienced with more than a decade of designing and delivering software.<br />I like to apply critical thinking and grasp the inner-workings behind every thing I touch.<br />
 
 On a personal note - I like to do weight-lift training and running, and I'm an avid a guitar player 🎸 :)
 
