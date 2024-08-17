@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/shtaif">
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=3000&pause=2000&center=true&vCenter=true&width=340&height=40&lines=Hi%2C+I'm+Dor!+%F0%9F%91%8B" alt="Hi, I'm Dor! 👋" />
+    <img alt="Hi, I'm Dor! 👋" src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=3000&pause=2000&center=true&vCenter=true&height=40&lines=Hi%2C+I'm+Dor!+%F0%9F%91%8B" />
   </a>
 </div>
 
@@ -17,17 +17,43 @@
 
 <br />
 
+I'm a passionate full-stack developer experienced by more then a decade of designing and delivering software.<br />I like to apply critical thinking and grasp the inner-workings behind every thing I touch.<br />
+
+On a personal note - I like to do weight-lift training and running, and I'm an avid a guitar player 🎸 :)
+
+#### Some topics I've developed fascination for:
+
+- TypeScript and generics 🧬
+- GraphQL 
+- GraphQL Subscriptions
+- API design ✍️
+- Event-driven programming
+- Asynchronous iterator pipelining and composition ⛓️ (e.g [iter-tools](https://github.com/iter-tools/iter-tools), [IxJS](https://github.com/ReactiveX/IxJS), [Async Iterator Helpers Proposal](https://github.com/tc39/proposal-async-iterator-helpers))
+- Real-time push-driven API technologies 🔃 (e.g Server-Sent-Events (SSE), WebSockets, gRPC, GraphQL Subscriptions, etc.)
+- Networking protocols 🛜
+- Open-source development 🕊️
+- Rust 🦀 (planning to get into)
+- _and it keeps filling..._
+
+<br/>
+
+## 🔥 Open Source Projects:
+
+- **[Iterified](https://github.com/shtaif/iterified):** A utility library that brings the power of asynchronous iteration to any callback-based multi-value sequenuce.
+- **[Qyu](https://github.com/shtaif/Qyu):** A lightweight and very flexible job queue library for the browser/Node.js.
+- **[Multerator](https://github.com/shtaif/multerator):** An async iterable based streaming parser for any _multipart/form-data_ payload (such as HTTP file uploads).
+
 <br />
 
 ## 🔬 Tools & stack
 
-#### _Languages, runtimes and Databases:_
+#### _Languages and runtimes:_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-rgb(65,126,56).svg?logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-282a36.svg?logo=bun&logoColor=fdeac7)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![Lua](https://custom-icon-badges.demolab.com/badge/Lua-2C2D72.svg?logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white)
@@ -35,7 +61,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?logo=raspberrypi&logoColor=white)
 
 #### _Frameworks, Tools and Libraries:_
-
 
 ![React.js](https://img.shields.io/badge/React.js-20232a.svg?logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white)
@@ -72,7 +97,6 @@
 
 <br />
 
-
 ## 📈 Stats and Activity
 
 <div>
@@ -86,7 +110,10 @@
 
 <br />
 
-## 🤙 Reach me
+## 🤙 Get in Touch
+
+I'm always open to collaborate on exciting projects or exploring new opportunities.<br />
+Feel free to reach out to me via:
 
 <a href="mailto:dorshtaif@gmail.com">![Email](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&style=for-the-badge)</a>
 <a href="https://github.com/shtaif">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
@@ -94,5 +121,7 @@
 <a href="https://x.com/ShtaifDor">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
 
 <br />
+
+Thanks for stopping by! 😊🤘🏻
 
 ### ___You code to live so you can live to code.___
