@@ -132,4 +132,6 @@ Feel free to reach out to me via:
 
 Thanks for stopping by! 😊🤘🏻
 
-### ___You code to live so you can live to code.___
+<br />
+
+___You code to live so you can live to code.___
