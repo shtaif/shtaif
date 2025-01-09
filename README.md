@@ -19,7 +19,7 @@
 
 I'm a passionate full-stack developer experienced with more than a decade of designing and delivering software.<br />I like to apply critical thinking and grasp the inner-workings behind every thing I touch.<br />
 
-On a personal note - I like to do weight-lift training and running, and I'm an avid a guitar player 🎸 :)
+On a personal note - I like to do weightlifting training and running, and I'm an avid guitar player 🎸 :)
 
 #### Some topics I've developed fascination for:
 
@@ -39,15 +39,19 @@ On a personal note - I like to do weight-lift training and running, and I'm an a
 
 ## 🔥 Open Source Projects:
 
-- **[_Iterified_](https://github.com/shtaif/iterified)**
-<sub><a href="https://www.npmjs.com/package/iterified"><img alt="Iterified npm downloads" src="https://img.shields.io/npm/dm/iterified?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
-A utility library that brings the power of asynchronous iteration to any callback-based multi-value sequenuce.
+- **[React Async Iterators](https://github.com/shtaif/react-async-iterators)**
+<sub><a href="https://www.npmjs.com/package/react-async-iterators"><img alt="React Async Iterators npm downloads" src="https://img.shields.io/npm/dm/react-async-iterators?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
+Hooks, components and utilities for working with JavaScript [async iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncIterator) values in React.js.
 
-- **[_Qyu_](https://github.com/shtaif/Qyu)**
+- **[Qyu](https://github.com/shtaif/Qyu)**
 <sub><a href="https://www.npmjs.com/package/qyu"><img alt="Qyu npm downloads" src="https://img.shields.io/npm/dm/qyu?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
 A lightweight and very flexible job queue library for the browser/Node.js.
 
-- **[_Multerator_](https://github.com/shtaif/multerator)**
+- **[Iterified](https://github.com/shtaif/iterified)**
+<sub><a href="https://www.npmjs.com/package/iterified"><img alt="Iterified npm downloads" src="https://img.shields.io/npm/dm/iterified?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
+A utility library that brings the power of asynchronous iteration to any callback-based multi-value sequenuce.
+
+- **[Multerator](https://github.com/shtaif/multerator)**
 <sub><a href="https://www.npmjs.com/package/multerator"><img alt="Multerator npm downloads" src="https://img.shields.io/npm/dm/multerator?style=plastic&logo=npm&logoColor=white&label=&color=DA261A" /></a></sub><br />
 An async iterable based streaming parser for any _multipart/form-data_ payload (such as HTTP file uploads).
 
