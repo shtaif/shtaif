@@ -24,6 +24,7 @@ On a personal note - I like to do weightlifting training and running, and I'm an
 #### Some topics I've developed fascination for:
 
 - TypeScript and generics 🧬
+- Rust 🦀 (_in the process of learning_)
 - GraphQL 
 - GraphQL Subscriptions
 - API design ✍️
@@ -32,7 +33,6 @@ On a personal note - I like to do weightlifting training and running, and I'm an
 - Real-time push-driven API technologies 🔃 (e.g Server-Sent-Events (SSE), WebSockets, gRPC, GraphQL Subscriptions, etc.)
 - Networking protocols 🛜
 - Open-source development 🕊️
-- Rust 🦀 (planning to get into)
 - _and it keeps filling..._
 
 <br/>
